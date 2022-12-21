@@ -19,7 +19,7 @@ p {
 .pageTitle {
 	background-image: url("graphics/pageTitle.png");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 100% 100%;
 	border: 1px solid #ffb319;
 	
 	font-family: Tahoma;
