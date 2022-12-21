@@ -74,26 +74,27 @@ p {
 .button {
 	background-color: #ffb319;
 	
-	border: 2px solid #73260f;
+	border: 4px solid #73260f;
 	
 	font-family: Tahoma;
 	color: #73260f;
-	font-size: 2vw;
+	font-size: 30px;
 	
 	text-decoration: none;
 	margin: auto;
-	margin-left: 3vh;
-	margin-right: 3vh;
+	margin-left: 5vh;
+	margin-right: 5vh;
+	margin-bottom: 5vh;
 	
 	
-	width: 30%;
-	padding: 3vh;
+	width: 55%;
+	padding: 2vh;
 	
 	display:inline-block;
 }
 
 .button:hover {
 	background-color: #5c4022;
-	border: 2px solid white;
+	border: 4px solid white;
 	color: white;
 }
