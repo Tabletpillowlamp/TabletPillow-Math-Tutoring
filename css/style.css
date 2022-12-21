@@ -14,12 +14,13 @@ p {
 	background-size: 100% 100%;
 	border: 1px solid #f7cd60;
 	
-	color: #f7cd60;
 	font-family: Tahoma;
+	color: #f7cd60;
 	margin: auto;
 	text-align: center;
 	font-size: 30px;
 	
+	width: 800px;
 	padding-left: 80px;
 	padding-right: 80px;
 }
@@ -36,7 +37,7 @@ p {
 	text-align: center;
 	font-size: 20px;
 	
-	width: 1000px;
+	width: 800px;
 	padding-left: 80px;
 	padding-right: 80px;
 	padding-bottom: 10px;
